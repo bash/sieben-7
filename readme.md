@@ -2,6 +2,8 @@
 A font for the segmented digits from the [legacy computing block].
 These digits are supported by no other font that I know of.
 
+The glyphs were extracted from the amazing [Segment7] font by Cedric Knight.
+
 ![A preview of the digits zero to nine using the Sieben 7 font](preview.svg)
 
 ## Glyphs
@@ -19,5 +21,8 @@ These digits are supported by no other font that I know of.
 ## Installation
 Download the OTF or TTF file from the latest release on GitHub.
 
+## License
+This font is license under the [SIL Open Font License](./license.txt).
 
 [legacy computing block]: https://www.unicode.org/charts/PDF/U1FB00.pdf
+[Segment7]: https://fontlibrary.org/en/font/segment7

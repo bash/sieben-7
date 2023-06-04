@@ -15,7 +15,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Install woff-tools
-      run: sudo apt-get -y install woff-tools
+    - name: Install woff tools
+      run: sudo apt-get -y install woff2
     - name: Build Font
       run: ./build.py

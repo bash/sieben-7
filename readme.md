@@ -19,10 +19,12 @@ The glyphs were extracted from the amazing [Segment7] font by Cedric Knight.
 * 🯹: U+1FBF9 SEGMENTED DIGIT NINE
 
 ## Installation
-Download the OTF or TTF file from the latest release on GitHub.
+Download the OTF or TTF file from the [latest release] on GitHub.
 
 ## License
 This font is license under the [SIL Open Font License](./license.txt).
 
+
 [legacy computing block]: https://www.unicode.org/charts/PDF/U1FB00.pdf
 [Segment7]: https://fontlibrary.org/en/font/segment7
+[latest release]: https://github.com/bash/sieben-7/releases/latest

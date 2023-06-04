@@ -12,6 +12,10 @@
     <integer>-200</integer>
     <key>familyName</key>
     <string>Sieben 7</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
     <key>italicAngle</key>
     <real>-3.0</real>
     <key>openTypeHeadCreated</key>
